@@ -127,4 +127,4 @@ PrimMST(G)
 
 📗 [동전 거스름돈 알고리즘](https://jackpot53.tistory.com/106)
 
-📗 [최소 비용 신장트리(MST) 알고리즘](https://hibee.tistory.com/30)
+📗 [최소 비용 신장트리(MST) 알고리즘](https://hibee.tistory.com/300)
